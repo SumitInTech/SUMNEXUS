@@ -68,7 +68,7 @@
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/sumitkumar02/sumnexus.git
+git clone https://github.com/SumitInTech/sumnexus.git
 cd sumnexus
 npm run install-all
 ```
@@ -192,8 +192,8 @@ Import `SumNexus_Postman_Collection.json` into Postman for API testing.
 ## Author
 
 **Sumit Kumar**
-- GitHub: [https://github.com/sumitkumar02](https://github.com/sumitkumar02)
-- LinkedIn: [https://linkedin.com/in/sumitkumar02](https://linkedin.com/in/sumitkumar02)
+- GitHub: [https://github.com/SumitInTech](https://github.com/SumitInTech)
+- LinkedIn: [https://linkedin.com/in/sumit-kumar-86a635349](https://linkedin.com/in/sumit-kumar-86a635349)
 
 ---
 
